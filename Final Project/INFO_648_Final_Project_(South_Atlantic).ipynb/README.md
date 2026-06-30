@@ -5,7 +5,7 @@ This project predicts neighborhood population growth within the South Atlantic R
 
 ## How to Run
 ### 1. Clone the repository
-git clone https://github.com/angelfrancomorales/INFO648/blob/main/Final%20Project/INFO_648_Final_Project_(South_Atlantic).ipynb
+git clone: (https://github.com/angelfrancomorales/INFO648/blob/main/Final%20Project/INFO_648_Final_Project_(South_Atlantic).ipynb/INFO_648_Final_Project_(South_Atlantic)%20(4).ipynb)
 
 ### 2. Upload data files to Google Colab
 Upload these four files:
